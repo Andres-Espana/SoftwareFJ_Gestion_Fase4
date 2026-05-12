@@ -1,0 +1,19 @@
+2026-05-12 16:18:26,841 - INFO - Operación Exitosa: ID 1
+2026-05-12 16:18:26,842 - ERROR - Error en Operación ID 2: Nombre vacío o correo electrónico inválido.
+2026-05-12 16:18:26,843 - ERROR - Error en Operación ID 3: La duración debe ser mayor a cero.
+2026-05-12 16:55:03,798 - INFO - Operación Exitosa: ID 1
+2026-05-12 16:55:03,799 - ERROR - Error en Operación ID 2: Nombre vacío o correo electrónico inválido.
+2026-05-12 16:55:03,799 - ERROR - Error en Operación ID 3: La duración debe ser mayor a cero.
+2026-05-12 16:55:07,756 - INFO - Operación Exitosa: ID 1
+2026-05-12 16:55:07,757 - ERROR - Error en Operación ID 2: Nombre vacío o correo electrónico inválido.
+2026-05-12 16:55:07,758 - ERROR - Error en Operación ID 3: La duración debe ser mayor a cero.
+2026-05-12 16:58:49,654 - INFO - Operación Exitosa: ID 1 - sala
+2026-05-12 16:58:49,656 - INFO - Operación Exitosa: ID 2 - equipo
+2026-05-12 16:58:49,657 - INFO - Operación Exitosa: ID 3 - asesoria
+2026-05-12 16:58:49,657 - INFO - Operación Exitosa: ID 4 - sala
+2026-05-12 16:58:49,657 - INFO - Operación Exitosa: ID 5 - equipo
+2026-05-12 16:58:49,657 - ERROR - Error en Operación ID 6: Nombre vacío o correo electrónico inválido.
+2026-05-12 16:58:49,657 - ERROR - Error en Operación ID 7: Nombre vacío o correo electrónico inválido.
+2026-05-12 16:58:49,657 - ERROR - Error en Operación ID 8: La duración debe ser mayor a cero.
+2026-05-12 16:58:49,657 - ERROR - Error en Operación ID 9: La duración debe ser mayor a cero.
+2026-05-12 16:58:49,657 - ERROR - Error en Operación ID 10: El servicio 'desconocido' no existe.
